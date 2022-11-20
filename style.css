@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+nav a{
+  padding: 10px;
+}
+h1 ,nav, div, figcaption{
+  text-align: center;
+}
+p{
+  text-align: center;
+ 
+}
+#details{
+  background: red;
+ display: flex;
+ padding: 20px;
+}
+section div {
+  margin-right: 20px;
+
+}
